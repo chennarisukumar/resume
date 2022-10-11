@@ -35,7 +35,7 @@
             <div class="skill-row">
               <img class="skill2-img" src="https://t3.ftcdn.net/jpg/03/39/42/28/240_F_339422879_PgxwYzPbtzM5zVeNxn5tvUiAFonQnUT2.jpg" alt="">
               <h3>Product Management</h3>
-              <p class="skillrow2-p">I loves to  manage the tasks.</p>
+              <p class="skillrow2-p">I loves to  manage the each and every step of the tasks involved in product life cycle.</p>
             </div>
           </div>
           <hr class="two-hr">
